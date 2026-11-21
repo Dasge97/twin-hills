@@ -1,0 +1,47 @@
+id,categoria,pieza,hito,provisional,definitivo,especificacion,estado
+viajero,Personajes,Viajero,H1,Kenney Blocky Characters,MF GLB,1.4 m capa clara,pendiente
+escarabajo,Personajes,Escarabajo,H2,Dos esferas y patas,MF GLB,0.8 m coraza ovalada,pendiente
+lobo,Personajes,Lobo de pinar,H4,Cajas articuladas,MF GLB,1 m silueta alargada,pendiente
+guardian,Personajes,Guardián de basalto,H4,Bloques articulados,MF GLB,2.4 m hombros anchos,pendiente
+farolera,Personajes,Farolera,H4,Personaje Kenney recoloreado,MF GLB,1.6 m farol de mano integrado,pendiente
+luciernaga,Personajes,Luciérnaga,H3,Esfera emisiva,MF GLB,0.25 m alas y estela dorada,pendiente
+fragmento,Recursos,Fragmento común,H2,Octaedro dorado,Malla procedural,0.3 m compartido por todo el botín,pendiente
+cuarzo,Recursos,Veta de cuarzo,H2,Prismas blancos,MF GLB,1.2 m puntas verticales,pendiente
+ambar,Recursos,Veta de ámbar,H4,Esferas miel,MF GLB,1.2 m nódulos redondos,pendiente
+basalto,Recursos,Veta de basalto rúnico,H4,Columnas grises,MF GLB,1.5 m runas azules,pendiente
+colinas,Escenario,Dos colinas iniciales,H1,Malla procedural,Terreno procedural,Dos instancias asimétricas enmarcan el camino,pendiente
+camino,Escenario,Calzada y sendero,H1,Cinta de malla,Malla procedural,Tres materiales por zona,pendiente
+torre,Escenario,Torre y puerta final,H1,Cilindro y arco,MF GLB,24 m puerta separada animable,pendiente
+farol,Escenario,Farol de paso,H1,Poste y cubo,MF GLB,2 m material apagado y encendido,pendiente
+roca,Escenario,Roca de ladera,H1,Kenney Nature Kit,MF GLB,1.5 m rotar y escalar instancias,pendiente
+hierba,Escenario,Mata de pradera,H1,Kenney Nature Kit,Malla instanciada,0.4 m variación de tono,pendiente
+pino,Escenario,Pino del bosque,H4,Kenney Nature Kit,MF GLB,6 m despejar eje de visión,pendiente
+arbusto,Escenario,Sotobosque,H4,Kenney Nature Kit,MF GLB,0.7 m silueta baja,pendiente
+pilar,Escenario,Pilar derruido,H4,Cajas grises,MF GLB,3 m modular en calzada,pendiente
+cielo,Escenario,Cielo y niebla,H1,Gradiente,Shader procedural,Cambiar paleta por distancia,pendiente
+ico_marcha,Icono,Marcha,H2,Glifo simple,Icono propio,bota,pendiente
+ico_fuerza,Icono,Fuerza,H2,Glifo simple,Icono propio,martillo,pendiente
+ico_ataque,Icono,Ataque,H3,Glifo simple,Icono propio,espada,pendiente
+ico_recogida,Icono,Recogida,H3,Glifo simple,Icono propio,ala,pendiente
+ico_pisada,Icono,Pisada,H3,Glifo simple,Icono propio,anillos,pendiente
+ico_chispa,Icono,Chispa,H4,Glifo simple,Icono propio,rayo,pendiente
+ico_brasas,Icono,Brasas,H4,Glifo simple,Icono propio,llama,pendiente
+ico_eco,Icono,Eco,H4,Glifo simple,Icono propio,ondas paralelas,pendiente
+ico_vida,Icono,Vida,H2,Glifo simple,Icono propio,corazón,pendiente
+ico_saldo,Icono,Saldo,H2,Glifo simple,Icono propio,rombo,pendiente
+ico_app,Icono,Icono de aplicación,H5,Glifo simple,Icono propio,dos colinas y torre,pendiente
+fx_alcance,Efecto,Objetivo seleccionable,H2,Geometría simple,Efecto procedural,contorno y cursor,pendiente
+fx_golpe,Efecto,Golpe y daño,H2,Geometría simple,Efecto procedural,destello breve,pendiente
+fx_botin,Efecto,Recogida,H2,Geometría simple,Efecto procedural,arco dorado,pendiente
+fx_caida,Efecto,Muerte o rotura,H2,Geometría simple,Efecto procedural,fragmentos breves,pendiente
+fx_luz,Efecto,Farol encendido,H3,Geometría simple,Efecto procedural,halo suave,pendiente
+fx_onda,Efecto,Pisada y eco,H3,Geometría simple,Efecto procedural,anillo expansivo,pendiente
+fx_rayo,Efecto,Descarga,H4,Geometría simple,Efecto procedural,línea quebrada,pendiente
+fx_orbita,Efecto,Órbita de brasas,H4,Geometría simple,Efecto procedural,brasas giratorias,pendiente
+fx_meta,Efecto,Puerta abierta,H4,Geometría simple,Efecto procedural,luz de umbral,pendiente
+ui_inicio,Interfaz,Menú y semilla,H1,Controles Godot,Tema Godot,Interfaz adaptable,pendiente
+ui_hud,Interfaz,HUD y compras,H2,Controles Godot,Tema Godot,Interfaz adaptable,pendiente
+ui_fin,Interfaz,Resultado e historial,H2,Controles Godot,Tema Godot,Interfaz adaptable,pendiente
+ui_pausa,Interfaz,Pausa y opciones,H3,Controles Godot,Tema Godot,Interfaz adaptable,pendiente
+ui_records,Interfaz,Récords locales,H4,Controles Godot,Tema Godot,Interfaz adaptable,pendiente
+portada,Imagen,Portada del juego,H5,Captura H1,Captura en juego,1920×1080 colinas y torre,pendiente
