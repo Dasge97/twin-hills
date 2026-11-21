@@ -1,0 +1,14 @@
+# Experiencia de juego
+
+## Recorrido completo
+La cámara mira desde detrás y por encima del viajero. Dos colinas ocultan la base de la torre. En los primeros 45 m, el camino gira visualmente hacia el valle y revela su silueta. El movimiento siempre sigue un eje lógico de distancia: las curvas son escenografía. Pradera dorada (0–360 m), bosque de pinos (360–780 m) y calzada de basalto (780–1200 m). Un farol marca cada transición y queda encendido al pasar. Para la vertical jugable se usa la primera zona y su farol final.
+
+La torre se abre automáticamente al llegar vivo. Hay victoria aunque queden perseguidores. La muerte termina el intento. Cada partida empieza desde cero. Solo se conservan opciones y récords. NPC amistoso de la v1: la farolera de la pradera saluda al paso junto al farol, sin diálogo modal ni tienda. Compañera funcional: luciérnaga recolectora. Los demás NPC son enemigos. El mismo escenario sirve para semilla libre y semilla introducida. Competición local o compartiendo semilla; marcador diario y clasificación en línea quedan fuera de la v1.
+
+## Cámara y controles
+Vista perspectiva, FOV vertical 52°, objetivo 10 m por delante, cámara a 7 m de altura y 13 m detrás. Ajustar encuadre durante H1 hasta que el viajero ocupe un 6–9 % de la altura a 1080p. Silueta de torre en el tercio superior. Sin control de cámara ni movimiento lateral. Objeto seleccionable resaltado por contorno y cursor; selección en pantalla con radio mínimo de 18 px a 1080p, escalado con la interfaz. Entre candidatos elegir el más próximo al cursor y después menor ID. Clic izquierdo interactúa en alcance. En automatización completa se puede jugar hasta el final tocando únicamente las mejoras.
+
+## Pantallas
+Inicio: nueva semilla, introducir semilla, récords y opciones. Durante la partida: vida y fragmentos arriba a la izquierda, zona y distancia arriba en el centro, reloj arriba a la derecha. Franja inferior con cinco compras iniciales y pestaña de habilidades avanzadas desde el bosque. Mostrar nivel, coste, efecto actual y siguiente, con estado asequible. Para pisada mostrar segundos entre ondas a la velocidad actual. Seleccionar una tarjeta compra exactamente un nivel. Comprar no exige abrir un diálogo. Espacio congela simulación y reloj y permite leer tarjetas y comprar; las compras se aplican en orden antes del siguiente paso. Escape abre opciones y pausa. El tiempo puntuable es tiempo simulado.
+
+Resultado: victoria o causa de muerte, distancia, tiempo, semilla copiable, historial de compras, mejor marca comparable, repetir y nueva semilla. Récord por semilla, versión y recorrido; solo victorias. Empate conserva el primero. Opciones: volumen maestro, pantalla completa y efectos reducidos. En efectos reducidos limitar partículas y desactivar sacudidas; conservar señales de ataque, zona de alcance y daño. Cada efecto usa forma además de color. Mantener visible al viajero incluso con todas las habilidades activas.
